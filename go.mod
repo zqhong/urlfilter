@@ -1,4 +1,4 @@
-module github.com/AdguardTeam/urlfilter
+module github.com/zqhong/urlfilter
 
 require (
 	github.com/AdguardTeam/golibs v0.1.3
